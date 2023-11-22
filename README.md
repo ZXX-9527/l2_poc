@@ -1,4 +1,4 @@
-# 蓝凌OA sysUiComponent任意文件上传漏洞验证poc
+# 蓝凌OA sysUiComponent 模块任意文件上传漏洞验证poc
 
 使用方法：
 把cs.zip和poc放在同一目录运行即可，漏洞存在即返回上传文件地址（只打印测试字符串，不进行getshell）
